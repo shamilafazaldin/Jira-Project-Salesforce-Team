@@ -26,6 +26,7 @@ This Jira board was created to help me:
 
 ## 📹 Video Walkthroughs
 
-- 🎥 [Jira Project Setup ] https://www.loom.com/share/e379c51c861043369f18cf661ca355bd?sid=03fe6819-0078-4be6-b866-5a57cffb980b
+- 🎥 [Jira Project Setup (Loom)](https://www.loom.com/share/e379c51c861043369f18cf661ca355bd?sid=566ec389-c9b1-4490-a450-7ad5b89fb436)
+
 
 📸 Screenshot of board view also saved in `screenshots/` folder
