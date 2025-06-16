@@ -26,7 +26,11 @@ This Jira board was created to help me:
 
 ## 📹 Video Walkthroughs
 
-- 🎥 [Jira Project Setup (Loom)](https://www.loom.com/share/e379c51c861043369f18cf661ca355bd?sid=566ec389-c9b1-4490-a450-7ad5b89fb436)
+## 📹 Video Walkthroughs
+
+- 🎥 [Jira Project Setup (Loom)](https://www.loom.com/share/e379c51c861043369f18cf661ca355bd?sid=337ea4c1-d972-4a46-978a-cd8f76094970)
+- 🎥 [GitHub project-setup.md creation (Loom)](LOOM_LINK_FOR_GITHUB_VIDEO)
+
 
 
 📸 Screenshot of board view also saved in `screenshots/` folder
