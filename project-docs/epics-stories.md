@@ -19,7 +19,9 @@ Create real-time dashboards to monitor SLA compliance, case load, and agent perf
 ## 🧩 EPIC 1: User Management Setup
 **Goal:** Enable Salesforce Admins to create, deactivate, and manage users.
 
--/screenshots/story-support-profile-parent-epic.png
+### 🟩 User Story: Custom Support Profile Linked to Epic
+![Story Screenshot](../screenshots/story-support-profile-parent-epic.png)
+
 
 
 ### 🔹 User Stories:
