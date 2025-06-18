@@ -44,21 +44,10 @@ Create user roles, permissions, and profiles in Salesforce to align with interna
 - **STORY-5:** As a Salesforce Admin, I want to build a workload dashboard for active agents.
 
 ---
-## 🧩 EPIC 4: Gather Service Requirements  
-**Owner:** Lina Okoro (Business Analyst)  
-**Goal:** Capture functional and non-functional requirements for new Salesforce service workflows.
+## 🧩 EPIC 4: 
 
-### 🔹 User Story 2: Interview Support Agents for Case Flow Gaps  
-- **Summary:** As a Business Analyst, I want to interview 5 support agents to identify bottlenecks in the current support case process.  
-- **Acceptance Criteria:**
-  - Conduct and document interviews with at least 5 agents
-  - Identify recurring issues and delays in case resolution
-  - Prepare a summary document with key findings and suggestions
-- **Assignee:** Lina Okoro  
-- **Due Date:** 2025-06-22
 
-📸 Screenshot:  
-![Story Screenshot](../screenshots/story-ba-caseflow-interview.png)
+
 
 ---
 
