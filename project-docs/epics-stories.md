@@ -27,33 +27,48 @@ Create user roles, permissions, and profiles in Salesforce to align with interna
 ![Story Screenshot](../screenshots/story-support-profile-parent-epic.png)
 
 
-### 2. Case Automation Rules
-Automate case assignment, SLA tracking, and customer email alerts in Service Cloud.
-
-### 3. Service Dashboard Reporting
-Create real-time dashboards to monitor SLA compliance, case load, and agent performance.
-
-
-
-
-
-### 🔹 User Stories:
-- **STORY-1:** As a Salesforce Admin, I want to create new users with specific roles.
-- **STORY-2:** As a Salesforce Admin, I want to deactivate users no longer in the org.
-- **STORY-3:** As a BA, I want to document onboarding permissions.
-
----
-
-## 🧩 EPIC 2: Case Automation Rules
+## 🧩 EPIC 2: Case Automation Rules  
+**Owner:** Alex Chen (Salesforce Admin)  
 **Goal:** Automate case assignment and SLA tracking.
 
-### 🔹 User Stories:
-- **STORY-4:** As a Support Manager, I want cases to auto-assign by priority.
-- **STORY-5:** As an Agent, I want to receive alerts when case SLA is approaching breach.
+🔹 User Stories (Jira Practice Only):
+- **STORY-2:** As a Salesforce Admin, I want to create assignment rules to route urgent cases to Tier 2 agents.
+- **STORY-3:** As a Salesforce Admin, I want to send SLA breach alerts to supervisors via email.
+
+## 🧩 EPIC 3: Service Dashboard Reporting  
+**Owner:** Shamila Fazaldin (Salesforce Admin)  
+**Goal:** Create real-time dashboards to monitor SLA compliance, case load, and agent performance.
+
+🔹 User Stories (Jira Practice Only):
+- **STORY-4:** As a Salesforce Admin, I want to design a Case SLA Dashboard for support managers.
+- **STORY-5:** As a Salesforce Admin, I want to build a workload dashboard for active agents.
+
+---
+## 🧩 EPIC 4: Gather Service Requirements  
+**Owner:** Lina Okoro (Business Analyst)  
+**Goal:** Capture functional and non-functional requirements for new Salesforce service workflows.
+
+### 🔹 User Story 2: Interview Support Agents for Case Flow Gaps  
+- **Summary:** As a Business Analyst, I want to interview 5 support agents to identify bottlenecks in the current support case process.  
+- **Acceptance Criteria:**
+  - Conduct and document interviews with at least 5 agents
+  - Identify recurring issues and delays in case resolution
+  - Prepare a summary document with key findings and suggestions
+- **Assignee:** Lina Okoro  
+- **Due Date:** 2025-06-22
+
+📸 Screenshot:  
+![Story Screenshot](../screenshots/story-ba-caseflow-interview.png)
 
 ---
 
-## 📸 Screenshots
+## 📝 Notes
 
-_Add screenshots from Jira showing your Epics and Story list once created._
+- Remaining team roles (2 DevOps + 1 BA) will be used for additional Jira practice, not GitHub documentation.
+- All documented stories are also linked in `README.md`.
+
+
+
+
+
 
