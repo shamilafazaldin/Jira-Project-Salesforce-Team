@@ -65,7 +65,7 @@ Create user roles, permissions, and profiles in Salesforce to align with interna
 
 ### 📹 User Story Creation Walkthrough (BA)
 
-🎥 [Epic + Story for BA in Jira](https://www.loom.com/share/your-ba-epic-video-link)
+🎥 [Epic + Story for BA in Jira](https://www.loom.com/share/8a267863eeb9475ca02c745c95b8e722?sid=a22220b9-4a8a-4a4a-8a4e-7c6783113e37)
 
 ---
 
