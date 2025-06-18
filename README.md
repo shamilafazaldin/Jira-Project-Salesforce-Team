@@ -73,6 +73,7 @@ Loom video links will be added below as the project progresses:
 
 See all Jira board and task screenshots in the [`/screenshots`](./screenshots) folder.
 
+![Screenshot](screenshots/Github_dashboard.png)
 
 
 ### 🟢 User Story 1: Link to Epic (Support Profile)
@@ -80,7 +81,7 @@ See all Jira board and task screenshots in the [`/screenshots`](./screenshots) f
 
 ![User Story 4 Screenshot](screenshots/story-ba-requirements-parent-epic.png)
 
-![Github dashoard Screenshot](screenshots/Github_dashboard.png)
+
 
 
 - [Jira Scrum Board](screenshots/jira-scrum-board-dashboard.png)
