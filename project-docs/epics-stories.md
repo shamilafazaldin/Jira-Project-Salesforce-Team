@@ -7,6 +7,19 @@ This document outlines the Epics and associated User Stories created in Jira for
 ### 1. User Management Setup
 Create user roles, permissions, and profiles in Salesforce to align with internal support team structure.
 
+## 🟢 User Story 1: Clone Standard User Profile
+
+**Epic:** User Management Setup  
+**Summary:** As a Salesforce Admin, I want to clone the Standard User Profile so I can customize permissions for support team members.  
+**Acceptance Criteria:**
+- Clone the "Standard User" profile.
+- Customize object permissions for Cases and Contacts.
+- Restrict access to Setup Menu.
+**Priority:** High  
+**Assignee:** Shamila  
+**Due Date:** 2025-06-20
+
+
 ### 2. Case Automation Rules
 Automate case assignment, SLA tracking, and customer email alerts in Service Cloud.
 
