@@ -55,7 +55,7 @@ Loom video links will be added below as the project progresses:
 
 See all Jira board and task screenshots in the [`/screenshots`](./screenshots) folder.
 
-
+- [Jira Scrum Board](screenshots/jira-scrum-board-dashboard.png)
 
 ---
 
