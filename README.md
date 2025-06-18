@@ -13,14 +13,15 @@ The goal is to simulate how team members (Admins, BAs, Devs) use **Jira to plan,
 
 ## 👥 Team Roles
 
-| Role             | Name (Fictional)   |
-|------------------|--------------------|
-| Product Owner     | Zuri Khan          |
-| Salesforce Admin  | Leo Amari          |
-| Business Analyst  | Aria Blake         |
-| Developer         | Miles Okoye        |
-| QA Tester         | Ava Chen           |
-| Scrum Master      | Samir Patel        |
+| Name         | Role             |
+|--------------|------------------|
+| Shamila      | Salesforce Admin |
+| Alex Chen    | Salesforce Admin |
+| Lina Okoro   | Business Analyst |
+| Priya Das    | Business Analyst |
+| Dev Patel    | DevOps Engineer  |
+| Maya Kim     | DevOps Engineer  |
+
 
 Details documented in [`project-docs/team-roles.md`](./project-docs/team-roles.md)
 
@@ -34,6 +35,19 @@ All planning documents are in the `/project-docs` folder:
 - `team-roles.md` → Role responsibilities
 - `epics-stories.md` → Backlog planning and hierarchy
 - `sprint-1-board.md` → Sprint tasks, progress, retrospective notes
+
+- ## 📂 Documented Epics & Stories
+
+| Epic Name                      | Role   | Documented? | Notes                         |
+|-------------------------------|--------|-------------|-------------------------------|
+| User Management Setup         | Admin  | ✅ Partial   | Story only + Screenshot       |
+| Gather Service Requirements   | BA     | ✅ Full      | Epic → Story → Loom + SS      |
+| Case Automation Rules         | Admin  | ❌ No        | Jira practice only            |
+| Service Dashboard Reporting   | Admin  | ❌ No        | Jira practice only            |
+| Service Documentation         | BA     | ❌ No        | Jira practice only            |
+| DevOps Deployment Monitoring  | DevOps | ❓ Optional  | You decide if you document it |
+| DevOps Sandbox Setup          | DevOps | ❌ No        | Jira practice only            |
+
 
 ---
 
