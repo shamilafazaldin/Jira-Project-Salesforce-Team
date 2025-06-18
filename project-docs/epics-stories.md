@@ -4,6 +4,9 @@ This document outlines the Epics and associated User Stories created in Jira for
 
 ## 📁 Epics
 
+  ## 🧩 EPIC 1: User Management Setup
+**Goal:** Enable Salesforce Admins to create, deactivate, and manage users.
+
 ### 1. User Management Setup
 Create user roles, permissions, and profiles in Salesforce to align with internal support team structure.
 
@@ -20,6 +23,10 @@ Create user roles, permissions, and profiles in Salesforce to align with interna
 **Due Date:** 2025-06-20
 
 
+### 🟩 User Story: Custom Support Profile Linked to Epic
+![Story Screenshot](../screenshots/story-support-profile-parent-epic.png)
+
+
 ### 2. Case Automation Rules
 Automate case assignment, SLA tracking, and customer email alerts in Service Cloud.
 
@@ -27,13 +34,6 @@ Automate case assignment, SLA tracking, and customer email alerts in Service Clo
 Create real-time dashboards to monitor SLA compliance, case load, and agent performance.
 
 
----
-
-## 🧩 EPIC 1: User Management Setup
-**Goal:** Enable Salesforce Admins to create, deactivate, and manage users.
-
-### 🟩 User Story: Custom Support Profile Linked to Epic
-![Story Screenshot](../screenshots/story-support-profile-parent-epic.png)
 
 
 
