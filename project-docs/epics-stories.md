@@ -2,6 +2,18 @@
 
 This document outlines the Epics and associated User Stories created in Jira for the simulated Salesforce Admin project.
 
+## 📁 Epics
+
+### 1. User Management Setup
+Create user roles, permissions, and profiles in Salesforce to align with internal support team structure.
+
+### 2. Case Automation Rules
+Automate case assignment, SLA tracking, and customer email alerts in Service Cloud.
+
+### 3. Service Dashboard Reporting
+Create real-time dashboards to monitor SLA compliance, case load, and agent performance.
+
+
 ---
 
 ## 🧩 EPIC 1: User Management Setup
