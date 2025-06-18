@@ -78,6 +78,10 @@ See all Jira board and task screenshots in the [`/screenshots`](./screenshots) f
 ### 🟢 User Story 1: Link to Epic (Support Profile)
 ![User Story 1 Screenshot](screenshots/story-support-profile-parent-epic.png)
 
+### 🟢 User Story 4:
+- 📸 `story-ba-requirements-parent-epic.png` – BA Story linked to Epic
+
+
 
 - [Jira Scrum Board](screenshots/jira-scrum-board-dashboard.png)
 - [Jira Epics](screenshots/jira-epics-panel.png)
