@@ -60,10 +60,8 @@ Create user roles, permissions, and profiles in Salesforce to align with interna
 **Due Date:** 2025-06-22
 
 ### 🟩 Screenshot: Story linked to Epic
-![Story Screenshot](../screenshots/story-ba-requirements-parent-epic.png)
 
-
-
+![User Story 4 Screenshot](../screenshots/story-ba-requirements-parent-epic.png)
 
 
 ---
