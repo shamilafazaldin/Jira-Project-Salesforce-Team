@@ -44,7 +44,24 @@ Create user roles, permissions, and profiles in Salesforce to align with interna
 - **STORY-5:** As a Salesforce Admin, I want to build a workload dashboard for active agents.
 
 ---
-## 🧩 EPIC 4: 
+## 🧩 EPIC 4: ## Requirement Documentation & Handoff
+**Goal:** Gather stakeholder input and define technical handoff.
+
+### 🟢 User Story: Document Stakeholder Support Requirements
+
+**Epic:** Requirement Documentation & Handoff  
+**Summary:** As a Business Analyst, I want to gather and document stakeholder expectations so that the technical team can build features that meet support needs.  
+**Acceptance Criteria:**
+- Meet with 3 support leads to understand workflows
+- Create a Confluence/Google Doc with summarized needs
+- Identify 3–5 key business pain points  
+**Priority:** Medium  
+**Assignee:** Linda  
+**Due Date:** 2025-06-22
+
+### 🟩 Screenshot: Story linked to Epic
+![Story Screenshot](../screenshots/story-ba-requirements-parent-epic.png)
+
 
 
 
