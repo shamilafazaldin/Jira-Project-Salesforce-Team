@@ -11,16 +11,19 @@ The goal is to simulate how team members (Admins, BAs, Devs) use **Jira to plan,
 
 ---
 
-## 👥 Team Roles
+# 👥 Team Roles
 
-| Name         | Role             |
-|--------------|------------------|
-| Shamila      | Salesforce Admin |
-| Alex Chen    | Salesforce Admin |
-| Lina Okoro   | Business Analyst |
-| Priya Das    | Business Analyst |
-| Dev Patel    | DevOps Engineer  |
-| Maya Kim     | DevOps Engineer  |
+This fictional Salesforce project team is collaborating using Jira to simulate a real-world delivery workflow.
+
+| Name           | Role                  | Responsibility                                                                 |
+|----------------|-----------------------|---------------------------------------------------------------------------------|
+| Shamila Fazaldin | Salesforce Admin      | Org setup, user management, automation, and Flow builder                        |
+| Alex Chen      | Salesforce Admin      | Permission sets, Case automation, reports, and user visibility configuration   |
+| Lina Okoro     | Business Analyst      | Requirement gathering, stakeholder interviews, write detailed user stories     |
+| Riya Patel     | Business Analyst      | Map user journeys, define acceptance criteria, and backlog grooming            |
+| Leo Zhang      | DevOps Engineer       | CI/CD pipelines, metadata deployment, GitHub-Jira integration                  |
+| Maya Thompson  | DevOps Engineer       | Sandbox management, release coordination, environment setup                    |
+
 
 
 Details documented in [`project-docs/team-roles.md`](./project-docs/team-roles.md)
