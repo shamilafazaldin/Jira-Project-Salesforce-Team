@@ -58,8 +58,8 @@ All planning documents are in the `/project-docs` folder:
 
 Loom video links will be added below as the project progresses:
 
-- 🎥 [Epic + Story for BA in Jira](https://www.loom.com/share/your-ba-epic-video-link)
-- 🎥 [GitHub Viewing Dashboard](https://www.loom.com/share/your-github-video-link)
+- 🎥 [Epic + Story for BA in Jira](https://www.loom.com/share/8a267863eeb9475ca02c745c95b8e722?sid=d565a239-41b9-46ed-9ea2-44e78230ed04)
+- 🎥 [GitHub Viewing Dashboard](https://www.loom.com/share/d2fd6dda5e6b4891ad4735915bf67712?sid=b71026a2-7565-4263-a7c3-68d5c73b75cb)
 - 🎥 [Jira Project Setup (Loom)](https://www.loom.com/share/e379c51c861043369f18cf661ca355bd?sid=1bc3c3ce-6e27-4f52-991d-e071b8f8e813)
 - 🎥 [GitHub project-setup.md creation (Loom)](https://www.loom.com/share/f05664ec7754453b86e9acfb19551b27?sid=c26837b9-a7b8-42a8-8642-6c52b40a93ef)
 - 🎥 [Github walkthrough (Loom)](https://www.loom.com/share/0c53cb70dbbf464299d284684441c358?sid=9ba617e5-f65c-4efc-9175-8799b4d5490a)
