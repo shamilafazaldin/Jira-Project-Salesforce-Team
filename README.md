@@ -46,6 +46,7 @@ Loom video links will be added below as the project progresses:
 - 🎥 [Jira Project Setup (Loom)](https://www.loom.com/share/e379c51c861043369f18cf661ca355bd?sid=1bc3c3ce-6e27-4f52-991d-e071b8f8e813)
 - 🎥 [GitHub project-setup.md creation (Loom)](https://www.loom.com/share/f05664ec7754453b86e9acfb19551b27?sid=c26837b9-a7b8-42a8-8642-6c52b40a93ef)
 - 🎥 [Github walkthrough (Loom)](https://www.loom.com/share/0c53cb70dbbf464299d284684441c358?sid=9ba617e5-f65c-4efc-9175-8799b4d5490a)
+- 🎥 [Iira Epic screenshot upload- Github (Loom)](https://www.loom.com/share/0c53cb70dbbf464299d284684441c358?sid=9ba617e5-f65c-4efc-9175-8799b4d5490a))
  
 - ⏳ More walkthroughs to be added as they’re recorded
 
