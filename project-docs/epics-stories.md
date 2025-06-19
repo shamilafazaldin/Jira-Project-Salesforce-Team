@@ -91,7 +91,6 @@ Create user roles, permissions, and profiles in Salesforce to align with interna
 
 ---
 
----
 
 ## 🧩 EPIC 5: Deployment Pipeline Setup  
 **Goal:** Design and automate the deployment pipeline using GitHub and Salesforce DX to reduce manual errors and increase delivery speed.
@@ -124,14 +123,12 @@ Create user roles, permissions, and profiles in Salesforce to align with interna
 **Assignee:** Chris  
 **Due Date:** 2025-06-22  
 
----
 
-
-
-
-
+### 🖼️ Screenshot: Jira Dashboard Showing All 6 Epics & Stories
+![Jira Dashboard - All Epics & Stories](../screenshots/jira-dashboard-6-epics-stories.png)
 
 ---
+
 
 ## 🧩 EPIC 6: Org Security & Backup Automation
 
@@ -152,11 +149,7 @@ Create user roles, permissions, and profiles in Salesforce to align with interna
 **Due Date:** 2025-06-23
 
 
-### 🖼️ Screenshot: Jira Dashboard Showing All 6 Epics & Stories
-![Jira Dashboard - All Epics & Stories](../screenshots/jira-dashboard-6-epics-stories.png)
 
-### 📹 User Story Creation Walkthrough (BA)
-🎥 [Epic + Story for BA in Jira](https://www.loom.com/share/8a267863eeb9475ca02c745c95b8e722?sid=a22220b9-4a8a-4a4a-8a4e-7c6783113e37)
 
 ---
 
