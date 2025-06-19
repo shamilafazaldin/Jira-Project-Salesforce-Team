@@ -65,10 +65,10 @@ Loom video links will be added below as the project progresses:
 - 🎥 [Github walkthrough (Loom)](https://www.loom.com/share/0c53cb70dbbf464299d284684441c358?sid=9ba617e5-f65c-4efc-9175-8799b4d5490a)
 - 🎥 [Jira Epic screenshot upload (Loom)](https://www.loom.com/share/ab9695e681b14ff19d7b4891bd4146b7?sid=f93e0210-3342-4808-8429-8576af140583)
 - 🎥 [DevOps Epic 5 & Story](https://www.loom.com/share/20ccc6dccef641f8ab89cad371229dd8?sid=3f783d3c-0835-42d1-a9f9-3e256fe9abc0)
+
 - ⏳ More walkthroughs to be added as they’re recorded
 
----### 📹 User Story Creation Walkthrough (BA)
-🎥 [Epic + Story for BA in Jira](https://www.loom.com/share/8a267863eeb9475ca02c745c95b8e722?sid=a22220b9-4a8a-4a4a-8a4e-7c6783113e37)
+
 
 
 ## 📸 Screenshots
