@@ -64,7 +64,7 @@ Loom video links will be added below as the project progresses:
 - 🎥 [GitHub project-setup.md creation (Loom)](https://www.loom.com/share/f05664ec7754453b86e9acfb19551b27?sid=c26837b9-a7b8-42a8-8642-6c52b40a93ef)
 - 🎥 [Github walkthrough (Loom)](https://www.loom.com/share/0c53cb70dbbf464299d284684441c358?sid=9ba617e5-f65c-4efc-9175-8799b4d5490a)
 - 🎥 [Jira Epic screenshot upload (Loom)](https://www.loom.com/share/ab9695e681b14ff19d7b4891bd4146b7?sid=f93e0210-3342-4808-8429-8576af140583)
- 
+- 🎥 [DevOps Epic 5 & Story](https://www.loom.com/share/20ccc6dccef641f8ab89cad371229dd8?sid=3f783d3c-0835-42d1-a9f9-3e256fe9abc0)
 - ⏳ More walkthroughs to be added as they’re recorded
 
 ---
