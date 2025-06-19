@@ -78,10 +78,14 @@ See all Jira board and task screenshots in the [`/screenshots`](./screenshots) f
 ![GitHub Dashboard Screenshot](screenshots/github-dashboard.png)
 
 
+- 🖼️ **Jira Dashboard View:** ![All 6 Epics and Stories](screenshots/jira-dashboard-6-epics-stories.png)
+
 
 
 ### 🟢 User Story 1: Link to Epic (Support Profile)
+
 ![User Story 1 Screenshot](screenshots/story-support-profile-parent-epic.png)
+
 
 ![User Story 4 Screenshot](screenshots/story-ba-requirements-parent-epic.png)
 
@@ -89,8 +93,8 @@ See all Jira board and task screenshots in the [`/screenshots`](./screenshots) f
 
 
 - [Jira Scrum Board](screenshots/jira-scrum-board-dashboard.png)
+  
 - [Jira Epics](screenshots/jira-epics-panel.png)
-- 🖼️ **Jira Dashboard View:** ![All 6 Epics and Stories](screenshots/jira-dashboard-6-epics-stories.png)
 
 
 ---
