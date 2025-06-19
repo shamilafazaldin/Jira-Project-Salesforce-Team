@@ -33,15 +33,15 @@ Create user roles, permissions, and profiles in Salesforce to align with interna
 
 🔹 User Stories (Jira Practice Only):
 - **STORY-2:** As a Salesforce Admin, I want to create assignment rules to route urgent cases to Tier 2 agents.
-- **STORY-3:** As a Salesforce Admin, I want to send SLA breach alerts to supervisors via email.
+- 
 
 ## 🧩 EPIC 3: Service Dashboard Reporting  
 **Owner:** Shamila Fazaldin (Salesforce Admin)  
 **Goal:** Create real-time dashboards to monitor SLA compliance, case load, and agent performance.
 
 🔹 User Stories (Jira Practice Only):
-- **STORY-4:** As a Salesforce Admin, I want to design a Case SLA Dashboard for support managers.
-- **STORY-5:** As a Salesforce Admin, I want to build a workload dashboard for active agents.
+**STORY-3:** As a Salesforce Admin, I want to send SLA breach alerts to supervisors via email.
+
 
 ---
 ## 🧩 EPIC 4: ## Requirement Documentation & Handoff
@@ -66,6 +66,27 @@ Create user roles, permissions, and profiles in Salesforce to align with interna
 ### 📹 User Story Creation Walkthrough (BA)
 
 🎥 [Epic + Story for BA in Jira](https://www.loom.com/share/8a267863eeb9475ca02c745c95b8e722?sid=a22220b9-4a8a-4a4a-8a4e-7c6783113e37)
+
+---
+
+### 🟢 User Story 5: CI Setup Linked to Epic
+
+**Epic:** Deployment Pipeline Setup  
+**Summary:** As a DevOps Engineer, I want to configure GitHub Actions for CI so that every code push triggers automated tests and validations.
+
+**Acceptance Criteria:**
+- Set up `.yml` workflow for PR validation
+- Ensure failed builds block deployment
+- Integrate with GitHub repo
+
+**Priority:** High  
+**Assignee:** Chris  
+**Due Date:** 2025-06-22
+
+### 🖼️ Screenshot: Jira Dashboard Showing All 6 Epics & Stories
+![Jira Dashboard - All Epics & Stories](../screenshots/jira-dashboard-6-epics-stories.png)
+
+
 
 ---
 
