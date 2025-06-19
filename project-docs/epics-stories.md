@@ -93,20 +93,6 @@ Create user roles, permissions, and profiles in Salesforce to align with interna
 
 ---
 
-**Epic:** Deployment Pipeline Setup  
-**Summary:** As a DevOps Engineer, I want to configure GitHub Actions for CI so that every code push triggers automated tests and validations.
-
-### 🟢 User Story 5: CI Setup Linked to Epic
-
-**Acceptance Criteria:**
-- Set up `.yml` workflow for PR validation
-- Ensure failed builds block deployment
-- Integrate with GitHub repo
-
-**Priority:** High  
-**Assignee:** Chris  
-**Due Date:** 2025-06-22
-
 ---
 
 ## 🧩 EPIC 5: Deployment Pipeline Setup  
@@ -138,9 +124,10 @@ Create user roles, permissions, and profiles in Salesforce to align with interna
 
 **Priority:** High  
 **Assignee:** Chris  
-**Due Date:** 2025-07-22  
+**Due Date:** 2025-06-22  
 
 ---
+
 
 
 ### 🖼️ Screenshot: Jira Dashboard Showing All 6 Epics & Stories
