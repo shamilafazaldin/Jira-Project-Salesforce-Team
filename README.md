@@ -90,6 +90,7 @@ See all Jira board and task screenshots in the [`/screenshots`](./screenshots) f
 
 - [Jira Scrum Board](screenshots/jira-scrum-board-dashboard.png)
 - [Jira Epics](screenshots/jira-epics-panel.png)
+- [Jira Dashboard View] [All 6 Epics and Stories](screenshots/jira-dashboard-6-epics-stories.png)
 
 ---
 
