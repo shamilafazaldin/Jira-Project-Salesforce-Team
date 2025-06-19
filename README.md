@@ -94,7 +94,7 @@ See all Jira board and task screenshots in the [`/screenshots`](./screenshots) f
 
 
 
-- [Jira Scrum Board](screenshots/jira-scrum-board-dashboard.png)
+- [Jira Scrum Board](screenshots/(jira-scrum-board-dashboard.png)
   
 - [Jira Epics](screenshots/jira-epics-panel.png)
 
